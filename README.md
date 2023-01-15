@@ -34,6 +34,11 @@ Validate the HTML code.
 
 Publish the website in the given URL.
 
+## Color scheme:
+__Primary color:__ White <br />
+__Secondary color:__ Black <br />
+__Tertiary color:__ Grey
+
 ## PROGRAM :
 
 ### home.html:
